@@ -4,3 +4,5 @@
 Gerenciando sites.
 
 <a href="https://pedroaraujo76.github.io/html-css-modulo-2/ex16 cores/cor1.html"> Executar o exercício cores 1 </a>
+
+<a href="https://pedroaraujo76.github.io/html-css-modulo-2/ex22/android.html"> Executar o exercício 22 </a>
